@@ -1,4 +1,4 @@
-![logo](https://github.com/Web-exprt04/Alishba-naveed/blob/main/images.jpeg)
+![logo](https://t4.ftcdn.net/jpg/04/19/26/97/360_F_419269782_9LsP3TQndMVnZ2j3ZhTPhMjaqQpFAth9.jpg)
 <h1 align="center">Hi 👋, I'm Alishba naveed</h1>
 <h3 align="center">DEVELOPER TO BE</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAM/coding-kira.gif">
